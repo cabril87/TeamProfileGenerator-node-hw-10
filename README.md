@@ -45,4 +45,6 @@ THEN I exit the application, and the HTML is generated
 ```
 [Website Link](https://cabril87.github.io/TeamProfileGenerator-node-hw-10/)
 
+[Video link] (https://drive.google.com/file/d/1V9rUDO-nTLAyvRIBmStipQVHpciknPBE/view)
+
 ![Website Screenshot](./Assets/SS.png)
